@@ -7,3 +7,6 @@ Ditugas sebelumnya kita telah Membuat dokumen HTML yang berisi judul yang menggu
 ![Gambar 1](screenshoot/ss01.png)
 Dan ini contoh hasilnya :
 ![Gambar 2](screenshoot/ss1.png)
+
+### Mendeklarasikan CSS Internal
+Lalu pada intruksi selanjutnya yaitu Mendeklarasikan CSS internal, yang diletakan pada bagian head dokumen, penulisan internal CSS menggunakan tag `<style>` yang diletakkan pada `<head>` dokumen.
