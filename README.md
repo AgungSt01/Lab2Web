@@ -11,3 +11,5 @@ Dan ini contoh hasilnya :
 ### Mendeklarasikan CSS Internal
 Lalu pada intruksi selanjutnya yaitu Mendeklarasikan CSS internal, yang diletakan pada bagian head dokumen, penulisan internal CSS menggunakan tag `<style>` yang diletakkan pada `<head>` dokumen. Berikut sytax atau command nya :
 ![Gambar 3](screenshoot/ss02.png)
+Dan ini contoh hasilnya :
+![Gambar 4](screenshoot/ss2.png)
