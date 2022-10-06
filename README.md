@@ -30,3 +30,5 @@ Setelah membuat dan menyimpan file css tersebut, kemudian kita tambahkan tag `<l
 Lalu Selanjutnya menambahkan CSS Selector menggunakan `ID dan Class Selector`. Pada file
 style_eksternal.css, tambahkan kode berikut :
 ![Gambar 9](screenshoot/ss05.png)
+Dan ini Hasilnya:
+![Gambar 10](screenshoot/ss5.png)
