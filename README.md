@@ -17,3 +17,5 @@ Dan ini contoh hasilnya :
 ### Menambahkan Inline CSS
 Pada Praktikum selanjutnya Kita tambahkan deklarasi inline CSS pada tag `<p>` dengan command `<p style>` command tersebeut akan mengubah warna huruf pada paragraf. Berikut syntax atau command nya :
 ![Gambar 5](screenshoot/ss03.png)
+Dan ini hasilnya :
+![Gambar 6](screenshoot/ss3.png)
