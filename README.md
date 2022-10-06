@@ -19,3 +19,6 @@ Pada Praktikum selanjutnya Kita tambahkan deklarasi inline CSS pada tag `<p>` de
 ![Gambar 5](screenshoot/ss03.png)
 Dan ini hasilnya :
 ![Gambar 6](screenshoot/ss3.png)
+
+### Membuat CSS eksternal
+Selanjutnya kita akan membuat CSS eksternal dengan cara buatlah file baru dengan nama `style_eksternal.css` kemudian buatlah deklarasi CSS seperti berikut syntax atau command nya :
