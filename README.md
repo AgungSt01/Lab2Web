@@ -23,3 +23,5 @@ Dan ini hasilnya :
 ### Membuat CSS eksternal
 Selanjutnya kita akan membuat CSS eksternal dengan cara buatlah file baru dengan nama `style_eksternal.css` kemudian buatlah deklarasi CSS seperti berikut syntax atau command nya :
 ![Gambar 7](screenshoot/ss04.png)
+Setelah membuat dan menyimpan file css tersebut, kemudian kita tambahkan tag `<link>` pada file lab2_css_dasar.html pada bagian `<head>` untuk menyambungkan file CSS yang telah dibuat. Dan ini adalah hasilnya:
+![Gambar 8](screenshoot/ss4.png)
