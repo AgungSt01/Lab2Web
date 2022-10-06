@@ -12,3 +12,27 @@ nav .active,
 nav a:hover {
     background: #000000;
     }
+/* ID Selector */
+#intro {
+    background: #000000;
+    border: 1px solid #ff0000;
+    min-height: 100px;
+    padding: 10px;
+    }
+    #intro h1 {
+    text-align: left;
+    border: 0;
+    color: #fff;
+    }
+    /* Class Selector */
+    .button {
+    padding: 15px 20px;
+    background: #000000;
+    color: #fff;
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+    }
+    .btn-primary {
+    background: #ff0000;
+    }
