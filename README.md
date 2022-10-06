@@ -22,4 +22,4 @@ Dan ini hasilnya :
 
 ### Membuat CSS eksternal
 Selanjutnya kita akan membuat CSS eksternal dengan cara buatlah file baru dengan nama `style_eksternal.css` kemudian buatlah deklarasi CSS seperti berikut syntax atau command nya :
-![Gambar 7](screenshoot/ss04.png.png)
+![Gambar 7](screenshoot/ss04.png)
